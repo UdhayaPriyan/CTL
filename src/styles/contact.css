@@ -1,0 +1,55 @@
+/* ContactPage.css */
+
+/* Apply background image to the whole page */
+body {
+    margin: 10;
+    padding: 1n0;
+    background-image: url('D:\Udhaya React\ctl-2\src\Assets\phone.jpg'); /* Replace 'path_to_your_image.jpg' with your image file path */
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif; /* Example font */
+    color: #fff; /* Example text color */
+    height: 100vh; /* Set the height of the body to viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+  }
+  
+  /* Style the contact details */
+  .contact-section {
+    background-color: rgba(0, 0, 0, 0.5); /* Example semi-transparent background color */
+    padding-top: 100px;
+    border-radius: 10px; /* Example border radius */
+    text-align: center;
+  }
+  
+  .contact-section h2 {
+    font-size: 2em; /* Example heading font size */
+    margin-bottom: 15px;
+  }
+  
+  .contact-section p {
+    font-size: 1.2em; /* Example paragraph font size */
+    margin-bottom: 10px;
+  }
+  
+  .contact-section div {
+    margin-bottom: 20px;
+  }
+  
+  .contact-section h3 {
+    font-size: 1.5em; /* Example subheading font size */
+    margin-bottom: 10px;
+  }
+  
+  .contact-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-section li {
+    font-size: 1.2em; /* Example list item font size */
+    margin-bottom: 5px;
+  }
+  

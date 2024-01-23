@@ -1,0 +1,8 @@
+.About-container{
+    background-image: url("../Assets/siuuuuu.jpg");
+    padding: 10px;
+    background-size: cover;
+}
+.primary-text{
+    justify-content: flex-end;
+}
